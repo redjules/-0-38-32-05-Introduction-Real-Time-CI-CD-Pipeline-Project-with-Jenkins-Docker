@@ -14,4 +14,7 @@ This is a view of the application:
 
 
 
-<img width="831" alt="Screenshot 2024-08-29 at 19 40 42" src="https://github.com/user-attachments/assets/667b2423-036a-406a-a740-ceaa80a8be5d">
+<img width="832" alt="Screenshot 2024-08-29 at 19 40 42" src="https://github.com/user-attachments/assets/667b2423-036a-406a-a740-ceaa80a8be5d">
+
+
+<img width="832" alt="Screenshot 2024-08-29 at 19 41 27" src="https://github.com/user-attachments/assets/1cd7538e-87d2-4d94-b8c2-315de4e3adc1">
