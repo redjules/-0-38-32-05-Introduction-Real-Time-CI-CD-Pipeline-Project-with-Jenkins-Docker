@@ -1,7 +1,8 @@
 # Real-Time-CI-CD-Pipeline-Project-with-Jenkins-Docker
 
+# Architecture
+<img width="959" alt="Screenshot 2024-08-29 at 19 38 15" src="https://github.com/user-attachments/assets/a45ee6fe-7b4d-4449-97f1-4df16ede3e8e">
 
-<img width="970" alt="Screenshot 2024-08-29 at 19 27 14" src="https://github.com/user-attachments/assets/52b08120-6ed0-488f-a5a9-1672a014a6c5">
 
 In this project, I build and deploy a basic Java app that will be using a back-end, front-end and database.
 
