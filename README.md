@@ -13,4 +13,4 @@ This is a view of the application:
 <img width="832" alt="Screenshot 2024-08-29 at 19 37 31" src="https://github.com/user-attachments/assets/51376402-64eb-4319-926b-31b1bda613dd">
 
 
-<img width="663" alt="Screenshot 2024-08-29 at 19 37 47" src="https://github.com/user-attachments/assets/3164388d-3d57-423d-9c9e-0af2c6c83cd2">
+<img width="936" alt="Screenshot 2024-08-29 at 19 39 11" src="https://github.com/user-attachments/assets/180def09-f257-419b-b997-758049b92aaf">
